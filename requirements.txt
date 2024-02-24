@@ -1,0 +1,7 @@
+matplotlib
+transformers
+scipy
+ftfy
+accelerate
+diffusers==0.11.1
+jupyter
